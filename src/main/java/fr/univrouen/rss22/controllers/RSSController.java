@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import fr.univrouen.rss2.model.Item;
+import fr.univrouen.rss22.model.Item;
 
 @RestController
 public class RSSController {

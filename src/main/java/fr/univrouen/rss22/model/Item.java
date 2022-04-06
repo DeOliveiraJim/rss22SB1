@@ -1,4 +1,4 @@
-package fr.univrouen.rss2.model;
+package fr.univrouen.rss22.model;
 
 import java.io.Serializable;
 import javax.xml.bind.annotation.XmlAccessType;
